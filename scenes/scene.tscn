@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://cn3gctoqr6q4b"]
+
+[ext_resource type="Texture2D" uid="uid://b1taesw42kber" path="res://Juan_Jr.png" id="1_1kc1q"]
+[ext_resource type="Texture2D" uid="uid://b44alcmy25bfd" path="res://0.png" id="2_4msxo"]
+
+[node name="Scene" type="Node2D" unique_id=124927496]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=746661646]
+position = Vector2(251.00002, 234)
+scale = Vector2(0.7865497, 0.7427983)
+texture = ExtResource("1_1kc1q")
+
+[node name="Sprite2D2" type="Sprite2D" parent="." unique_id=471443293]
+position = Vector2(590, 128)
+texture = ExtResource("2_4msxo")
